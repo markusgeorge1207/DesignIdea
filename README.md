@@ -14,7 +14,7 @@ Explicit Value/Use
 
 Core Game Features
 - I think there should be many distinct level designs based on locations from the school: Chalmers Hall, Rugby Hall, Munger, Downstairs Chalmers, Seaver Lower Level, Seaver Upper Level, Library, Cafeteria and the Field/Weight Room.
-- Each level can have obstacles or opponents relevant to their location (Mr.Stout for Chalmers, Mr.Traynham for Rugby, etc..)
+- Each level can have obstacles or opponents relevant to their location (Teachers)
 Students can earn points by collecting coins or defeating teachers along the path. 
 
 Competitive Element: 
